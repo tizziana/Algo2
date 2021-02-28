@@ -1,0 +1,68 @@
+11
+Moscu,55.755833,37.617778
+San Petesburgo,59.95,30.316667
+Kaliningrado,54.716667,20.5
+Kazan,55.790833,49.114444
+Nizhni Novgorod,56.326944,44.0075
+Volgogrado,48.7,44.483333
+Samara,53.183333,50.116667
+Sochi,43.585278,39.720278
+Saransk,54.183333,45.183333
+Rostov del Don,47.233333,39.716667
+Ekaterinburgo,56.833333,60.583333
+55
+Moscu,San Petesburgo,4
+Moscu,Kaliningrado,3
+Moscu,Sochi,34
+Moscu,Kazan,13
+Moscu,Nizhni Novgorod,4
+Moscu,Volgogrado,13
+Moscu,Samara,2
+Moscu,Saransk,9
+Moscu,Rostov del Don,3
+Moscu,Ekaterinburgo,25
+San Petesburgo,Kaliningrado,4
+San Petesburgo,Kazan,19
+San Petesburgo,Nizhni Novgorod,12
+San Petesburgo,Volgogrado,5
+San Petesburgo,Samara,25
+San Petesburgo,Sochi,31
+San Petesburgo,Saransk,4
+San Petesburgo,Rostov del Don,28
+San Petesburgo,Ekaterinburgo,30
+Kaliningrado,Kazan,6
+Kaliningrado,Nizhni Novgorod,30
+Kaliningrado,Volgogrado,8
+Kaliningrado,Samara,43
+Kaliningrado,Sochi,60
+Kaliningrado,Saransk,9
+Kaliningrado,Rostov del Don,6
+Kaliningrado,Ekaterinburgo,7
+Kazan,Nizhni Novgorod,1
+Kazan,Volgogrado,2
+Kazan,Samara,7
+Kazan,Sochi,4
+Kazan,Saransk,10
+Kazan,Rostov del Don,20
+Kazan,Ekaterinburgo,14
+Nizhni Novgorod,Volgogrado,29
+Nizhni Novgorod,Samara,10
+Nizhni Novgorod,Sochi,4
+Nizhni Novgorod,Saransk,9
+Nizhni Novgorod,Rostov del Don,3
+Nizhni Novgorod,Ekaterinburgo,5
+Volgogrado,Samara,5
+Volgogrado,Sochi,3
+Volgogrado,Saransk,10
+Volgogrado,Rostov del Don,12
+Volgogrado,Ekaterinburgo,21
+Samara,Sochi,26
+Samara,Saransk,6
+Samara,Rostov del Don,3
+Samara,Ekaterinburgo,6
+Sochi,Saransk,31
+Sochi,Rostov del Don,6
+Sochi,Ekaterinburgo,12
+Saransk,Rostov del Don,10
+Saransk,Ekaterinburgo,20
+Rostov del Don,Ekaterinburgo,7
